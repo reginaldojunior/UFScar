@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J mmul                     # Job name
+#SBATCH -J pi                       # Job name
 #SBATCH -p fast                     # Job partition
 #SBATCH -n 1                        # Number of processes
 #SBATCH -t 01:30:00                 # Run time (hh:mm:ss)
